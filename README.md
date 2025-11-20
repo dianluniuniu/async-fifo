@@ -521,9 +521,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: IC Lab Design
+**Project Maintainer**: CHIUKUEI HUANG
 
-**Project Link**: [https://github.com/YOUR_USERNAME/async-fifo-design](https://github.com/YOUR_USERNAME/async-fifo-design)
+**Project Link**: [https://github.com/YOUR_USERNAME/async-fifo-design](https://github.com/dianluniuniu/async-fifo)
 
 ## 🙏 Acknowledgments
 
