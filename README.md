@@ -523,7 +523,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer**: CHIUKUEI HUANG
 
-**Project Link**: [https://github.com/YOUR_USERNAME/async-fifo-design](https://github.com/dianluniuniu/async-fifo)
+**Project Link**: [https://github.com/dianluniuniu/async-fifo](https://github.com/dianluniuniu/async-fifo)
 
 ## 🙏 Acknowledgments
 
