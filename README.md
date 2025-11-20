@@ -444,8 +444,8 @@ async-fifo-design/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/async-fifo-design.git
-cd async-fifo-design
+git clone https://github.com/dianluniuniu/async-fifo.git
+cd async-fifo
 ```
 
 ### 2. Run Simulation
